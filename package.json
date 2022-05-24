@@ -1,0 +1,14 @@
+{
+  "name": "stockstats",
+  "version": "1.0.0",
+  "description": "a discord bot to see data about stocks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevenson",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
